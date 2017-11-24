@@ -26,7 +26,7 @@
     </Attribute>
   </Attributes>
   <Docs>
-    <summary>Specifies the type of an object.</summary>
+    <summary>Specifies the type of an object. This doesn't have enumerations that has types similar to NaN. For example, double, long are not enumerated here. So is the same with nullable data types as well.</summary>
     <remarks>
       <format type="text/markdown"><![CDATA[  
   
